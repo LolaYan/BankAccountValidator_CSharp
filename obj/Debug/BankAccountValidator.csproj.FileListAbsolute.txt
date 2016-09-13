@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\bin\Debug\BankAccountValidator.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\bin\Debug\BankAccountValidator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\bin\Debug\BankAccountValidator.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.NZBankAccountValidator.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TestUtilities\BankAccountValidator\obj\Debug\BankAccountValidator.pdb
